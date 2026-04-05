@@ -379,6 +379,4 @@ export default function App() {
       )}
     </div>
   );
-}git add .
-git commit -m "journal trading"
-git push
+}
